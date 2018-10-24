@@ -1,0 +1,20 @@
+phonegap remote login
+
+msawon94@gmail.com
+
+System2018
+
+phonegap remote 
+
+phonegap remote build android
+
+phonegap template list
+
+phonegap create firebase --template blank
+
+
+phonegap build android
+
+
+sample :
+https://github.com/jessemonroy650?after=Y3Vyc29yOjYw&language=&q=phonegap&tab=repositories&type=&utf8=%E2%9C%93
